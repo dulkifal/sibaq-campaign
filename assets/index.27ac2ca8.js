@@ -54,7 +54,7 @@ let p = new Image,
 function J(g) {
     let n = document.createElement("input");
     const [c, o] = s(!1), [t, r] = s(null), [d, k] = s(null), [h, S] = s(null), [v, j] = s(null), [D, y] = s(null), [C, F] = s(null);
-    p.src = "/profile frame.png", p.onload = () => {
+    p.src = "https://raw.githubusercontent.com/branwith/sibaqcampaign/main/Profile%20frame.png", p.onload = () => {
         r(1)
     };
     let w = new Image;
