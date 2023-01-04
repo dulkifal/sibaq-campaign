@@ -97,7 +97,7 @@ function p(o) {
                 null,
                 t(
                   "a",
-                  { href: b, download: "SIBAQ PROFILE PHOTO" },
+                  { href: b, download: "MDIA Convocation" },
                   t(
                     "button",
                     null,
